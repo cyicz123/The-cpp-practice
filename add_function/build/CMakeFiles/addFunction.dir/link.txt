@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/addFunction.dir/add_function.cpp.o  -o addFunction 

@@ -1,0 +1,3 @@
+/mnt/cyicz123/C++实验作业/下学期/第二次/build/CMakeFiles/rebuild_cache.dir
+/mnt/cyicz123/C++实验作业/下学期/第二次/build/CMakeFiles/addFunction.dir
+/mnt/cyicz123/C++实验作业/下学期/第二次/build/CMakeFiles/edit_cache.dir
