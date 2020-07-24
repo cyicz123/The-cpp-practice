@@ -81,7 +81,7 @@ Person::Person(const string& n, const int& a)
 	age = a;
 }
 
-
+ 
 
 class Student:public Person
 {
